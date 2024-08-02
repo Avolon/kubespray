@@ -1,0 +1,2 @@
+# kubespray
+DevOps diplom skillfactory
